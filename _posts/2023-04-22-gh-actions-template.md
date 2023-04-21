@@ -13,6 +13,9 @@ image:
 
 Template for all development branches:
 
+> The default `GITHUB_TOKEN` value is `secrets.PAT`
+{: .prompt-info }
+
 ```yaml
 name: Development
 on:
