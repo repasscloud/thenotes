@@ -1,7 +1,7 @@
 ---
 title: gh-actions Template
 author: danijeljw-rpc
-date: 2023-03-22 00:00:00 +1000
+date: 2023-04-22 00:00:00 +1000
 categories: [git, GitHub]
 tags: [cli, git, github]
 math: true
