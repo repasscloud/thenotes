@@ -1,7 +1,7 @@
 ---
 title: Add Swagger to Blazor
 author: danijeljw-rpc
-date: 2023-04-22 00:00:00 +1000
+date: 2023-04-18 00:00:00 +1000
 categories: [C#, Blazor]
 tags: [swagger, C#, blazor, wasm, swashbuckle]
 math: true
